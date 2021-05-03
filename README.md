@@ -1,2 +1,2 @@
 # Aplikasi biodata
-Ini adalah pembuaran aplikasi biodata test kaifa
+Ini adalah pembuatan aplikasi biodata untuk test kaifa
